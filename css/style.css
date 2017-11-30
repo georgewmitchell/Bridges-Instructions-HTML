@@ -1,26 +1,34 @@
 @import url('https://fonts.googleapis.com/css?family=Barlow+Semi+Condensed|Ubuntu');
-
-.Instructions{
-  background-color: lightgrey;
-  width: auto;
-  padding: 5px;
-  margin: 5px;
-  border-radius: 20px
-
+.Instructions {
+    background-color: #0073C1;
+    width: auto;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 20px;
+    color: white;
 }
 
-h2{
-  text-align: center;
-  font-family: 'Ubuntu', sans-serif;
+h2 {
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
 }
 
-h1{
-font-family: 'Ubuntu', sans-serif;
+h1 {
+    font-family: 'Ubuntu', sans-serif;
 }
 
-li{
-  font-family: 'Barlow Semi Condensed', sans-serif;
+li {
+    font-family: 'Barlow Semi Condensed', sans-serif;
 }
-h3{
-  font-family: 'Ubuntu', sans-serif;
+
+h3 {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+p {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+a {
+    font-family: 'Barlow Semi Condensed', sans-serif;
 }
