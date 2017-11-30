@@ -1,16 +1,17 @@
 article{
   background-color: lightgrey;
   width: auto;
-  padding: 1px;
+  padding: 5px;
   margin: 5px;
-  border-radius: 5px;
-  /*margin:auto;*/
+  border-radius: 20px;
+
 }
 p{
   background-color: lightgrey;
   width: auto;
-  padding: 1px;
+  padding: 5px;
   margin: 5px;
+  border-radius: 10px;
 }
 h2{
   text-align: center;
